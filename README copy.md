@@ -1,11 +1,6 @@
 # MEGAFIN NETWORK
-Earning by sharing internet bandthwith [https://app.megafin.xyz/dashboard](https://app.megafin.xyz/upgrade?ref=7abb044f)
+Earning by sharing internet bandthwith [https://app.megafin.xyz/dashboard](https://app.megafin.xyz/upgrade?ref=5d0f66f3)
 ![banner](image.png)
-
-Contact support [Telegram](https://t.me/hieu16005)
-
-#MEGAFIN BOT
-#MEGAFIN AUTO
 
 ## Features
 
@@ -25,8 +20,8 @@ Contact support [Telegram](https://t.me/hieu16005)
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/ladao06333/Megafin-bot.git
-    cd Megafin-bot
+    git clone https://github.com/Zlkcyber/megafin.git
+    cd megafin
     ```
 2. Install dependencies:
     ```bash
@@ -36,3 +31,5 @@ Contact support [Telegram](https://t.me/hieu16005)
     ```bash
     npm run start
     ```
+4. Follow the instructions in the terminal to complete the setup.
+    ![intro](image-1.png)
